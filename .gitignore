@@ -17,7 +17,7 @@
 *~
 
 # C++ implementation
-# *.cpp
+*.cpp
 
 # Project-specific binary
 blackjack
